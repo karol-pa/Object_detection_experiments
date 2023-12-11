@@ -1,0 +1,18 @@
+names:
+- PS2
+- PS4
+- Switch
+- Video-Game
+- Xbox
+- Xbox 360
+- Xbox One
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: video-game-shelf-labeling-v2
+  url: https://universe.roboflow.com/lucian-marshall/video-game-shelf-labeling-v2/dataset/1
+  version: 1
+  workspace: lucian-marshall
+test: ../test/images
+train: Video-Game-Shelf-Labeling-v2-1/train/images
+val: Video-Game-Shelf-Labeling-v2-1/valid/images
